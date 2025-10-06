@@ -25,8 +25,8 @@ The project demonstrates:
 ## ⚙️ Tech Stack
 | Layer | Technology | Purpose |
 |-------|-------------|----------|
-| **Database** | Oracle Database XE | Core data management, PL/SQL, triggers |
-| **Backend** | Flask (Python) | REST API and DB communication |
+| **Database** | Oracle Database | Core data management, PL/SQL, triggers |
+| **Backend** | SpringBoot,Flask (Python) | REST API and DB communication |
 | **Java Module** | Java + JDBC (IntelliJ) | Demonstrates PL/SQL calls and DB connectivity |
 | **Frontend** | React.js | User interface and dashboard |
 | **Tools** | Oracle SQL Developer, DBeaver, IntelliJ IDEA | Development, testing, and DB visualization |
