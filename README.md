@@ -66,5 +66,5 @@ This project satisfies all the required components of the DBMS mini-project:
 ---
 
 ## 🚀 Quick Start
-1. **Install Oracle Database XE**  
-   Download from [oracle.com/database/technologies/appdev/xe.html](https://www.oracle.com/data)
+1. **Install Oracle Database Free**  
+   Download from [https://www.oracle.com/database/free/get-started/#windows](https://www.oracle.com/data)
