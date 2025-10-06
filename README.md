@@ -29,7 +29,7 @@ The project demonstrates:
 | **Backend** | SpringBoot,Flask (Python) | REST API and DB communication |
 | **Java Module** | Java + JDBC (IntelliJ) | Demonstrates PL/SQL calls and DB connectivity |
 | **Frontend** | React.js | User interface and dashboard |
-| **Tools** | Oracle SQL Developer, DBeaver, IntelliJ IDEA | Development, testing, and DB visualization |
+| **Tools** | Oracle SQL Developer, DBeaver, IntelliJ IDEA, VS CODE | Development, testing, and DB visualization |
 
 ---
 
